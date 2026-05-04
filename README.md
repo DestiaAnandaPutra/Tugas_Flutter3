@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_layout3
+=======
+# flutter_layout2
+>>>>>>> 8eb632cd6669f364f899feffc4c6e2bd7709c81c
 
 A new Flutter project.
 
